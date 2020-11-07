@@ -40,7 +40,7 @@ The solution to the problem stated before is to create an **AI-driven FRAUD DETE
 - **Time Saving**: Application can be used to flag the claims.
 
 ## For Demo Video visit
-https://youtu.be/leFXyiVyt6M
+https://youtu.be/intnuJHvoEw
 
 ## Download the apk and Try it yourself
 http://bit.ly/apk_healthcare
